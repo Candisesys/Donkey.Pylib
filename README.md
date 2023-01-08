@@ -8,3 +8,5 @@ For those unaware, this is [based of a game originally made in GWBASIC.](https:/
 ### Python Game
 
 <img src="https://i.ibb.co/7CqQPbx/image.png" alt="Python Game" width="400"/>
+
+### I used this [python library](https://github.com/electronstudio/raylib-python-cffi) to make this game.
